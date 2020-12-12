@@ -16,6 +16,7 @@ public class Fibonacci {
 			            previousNum = nextNum;
 			            nextNum = sum;
 			        }
+			        System.out.println();
 			}
 		
 	
